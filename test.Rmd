@@ -1,3 +1,0 @@
-# Тест формул
-
-$ \Gamma(x) = \int_{\mathbb{R}} t^{x-1} e^{-t} dt $
