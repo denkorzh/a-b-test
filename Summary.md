@@ -13,7 +13,8 @@ http://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/ )
   - надо вообще разобраться, что за зверь Sequential Generalized Likelihood Ratio test
 
 ## Байесовский подход
+* https://www.chrisstucchio.com/pubs/VWO_SmartStats_technical_whitepaper.pdf большой подробный обзор
 
 ## Многорукие бандиты
 * https://habrahabr.ru/company/ods/blog/325416/
-
+* https://vwo.com/blog/multi-armed-bandit-algorithm/ или почему Бандит хуже с точки зрения VWO
