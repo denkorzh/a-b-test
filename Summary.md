@@ -13,3 +13,7 @@ http://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/ )
   - надо вообще разобраться, что за зверь Sequential Generalized Likelihood Ratio test
 
 ## Байесовский подход
+
+## Многорукие бандиты
+* https://github.com/denkorzh/a-b-test.git
+
