@@ -15,5 +15,5 @@ http://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/ )
 ## Байесовский подход
 
 ## Многорукие бандиты
-* https://github.com/denkorzh/a-b-test.git
+* https://habrahabr.ru/company/ods/blog/325416/
 
