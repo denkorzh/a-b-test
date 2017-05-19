@@ -18,3 +18,4 @@ http://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/ )
 ## Многорукие бандиты
 * https://habrahabr.ru/company/ods/blog/325416/
 * https://vwo.com/blog/multi-armed-bandit-algorithm/ или почему Бандит хуже с точки зрения VWO
+* http://www.cs.mcgill.ca/~vkules/bandits.pdf обзор алгоритмов помимо сэмплирования из статьи Хабра
