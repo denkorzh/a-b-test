@@ -14,6 +14,7 @@ http://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/ )
 
 ## Байесовский подход
 * https://www.chrisstucchio.com/pubs/VWO_SmartStats_technical_whitepaper.pdf большой подробный обзор
+* http://www.exp-platform.com/Documents/2016DSAAcontinuousMonitoringDengLuChen.pdf Нужные вещи о Bayes factors
 
 ## Многорукие бандиты
 * https://habrahabr.ru/company/ods/blog/325416/
