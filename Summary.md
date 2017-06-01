@@ -11,6 +11,7 @@
 * Применение последовательного анализа (http://www.evanmiller.org/sequential-ab-testing.html 
 http://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/ )
   - надо вообще разобраться, что за зверь Sequential Generalized Likelihood Ratio test
+  - https://projecteuclid.org/download/pdf_1/euclid.aoms/1177731118 со стр. 164
 
 ## Байесовский подход
 * https://www.chrisstucchio.com/pubs/VWO_SmartStats_technical_whitepaper.pdf большой подробный обзор
