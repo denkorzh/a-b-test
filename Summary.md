@@ -11,6 +11,7 @@
 * **Итого:**
   - лучше всего под эту задачу в обчыном рассмотрении подходит [Welch's t-test](https://en.wikipedia.org/wiki/Welch%27s_t-test)
   - Сумма биномиальных под ЦПТ распределена как сумма нормальных - поэтому используем [вот эти приближения](http://www.machinelearning.ru/wiki/index.php?title=%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B9_%D0%A1%D1%82%D1%8C%D1%8E%D0%B4%D0%B5%D0%BD%D1%82%D0%B0#.D0.A1.D1.80.D0.B0.D0.B2.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B4.D0.B2.D1.83.D1.85_.D0.B2.D1.8B.D0.B1.D0.BE.D1.80.D0.BE.D1.87.D0.BD.D1.8B.D1.85_.D1.81.D1.80.D0.B5.D0.B4.D0.BD.D0.B8.D1.85_.D0.BF.D1.80.D0.B8_.D0.BD.D0.B5.D0.B8.D0.B7.D0.B2.D0.B5.D1.81.D1.82.D0.BD.D1.8B.D1.85_.D0.BD.D0.B5.D1.80.D0.B0.D0.B2.D0.BD.D1.8B.D1.85_.D0.B4.D0.B8.D1.81.D0.BF.D0.B5.D1.80.D1.81.D0.B8.D1.8F.D1.85)
+  - Кобзарь, Прикладная математическая статистика, стр. 389
 * Применение последовательного анализа (http://www.evanmiller.org/sequential-ab-testing.html 
 http://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/ )
   - надо вообще разобраться, что за зверь Sequential Generalized Likelihood Ratio test
