@@ -14,6 +14,7 @@
   - Кобзарь, Прикладная математическая статистика, стр. 389
   - Chow, Sample Size Calculations in Clinical Research (2nd ed., 2008), 4.2.2
   - трюк с заменой на оценку в знаменателе связан с тем, что отношение оценки к истинной дисперсии стремится по вер-ти к 1, а дальше используется лемма Слуцкого - см. Casella, Berger, Example 10.3.5, p. 493
+  - https://www.stat.washington.edu/jaw/COURSES/580s/581/LECTNOTES/ch2c-jaw.pdf
 * Применение последовательного анализа (http://www.evanmiller.org/sequential-ab-testing.html 
 http://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/ )
   - надо вообще разобраться, что за зверь Sequential Generalized Likelihood Ratio test
