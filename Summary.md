@@ -25,6 +25,7 @@ http://www.auduno.com/2014/12/25/rapid-a-b-testing-with-sequential-analysis/ )
 * http://www.exp-platform.com/Documents/2016DSAAcontinuousMonitoringDengLuChen.pdf Нужные вещи о Bayes factors
 * https://github.com/StatsWithR/figures/blob/master/04_bayesian_statistics/week_03/4.3.1b_comparing_two_proportions_Bayes_factors/Docs/4.3.1b_supp_comparing_two_proportions_with_BF.pdf Как выглядит bayes factor для бета-биномиального случая
 * https://www.coursera.org/learn/bayesian/lecture/1wjwS/introduction-to-statistics-with-r курс, из которого взят материал выше
+* http://www3.stat.sinica.edu.tw/statistica/oldpdf/A15n24.pdf правильная калибровка для Bayes factor
 
 ## Многорукие бандиты
 * https://habrahabr.ru/company/ods/blog/325416/
